@@ -155,7 +155,7 @@
 }
 
 \newcommand{\sublist}{
-	\begin{list}{-}{\leftmargin=2em} % hyphen used for bullets, no indentation
+	\begin{list}{--}{\leftmargin=2em} % hyphen used for bullets, no indentation
 	\itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
   }
 \newcommand{\esublist}{
